@@ -1,9 +1,9 @@
 # 365-Days-of-ML
 | Day | Domain | Learning | Built | Resources | Other Learning |
 |-----|--------|----------|-------|-----------|----------------|
-| Day 1 |        |          |       |           |                |
-|     |        |          |       |           |                |
-|     |        |          |       |           |                |
-|     |        |          |       |           |                |
-|     |        |          |       |           |                |
-|     |        |          |       |           |                |
+| Day 1 |   Deep Learning    |  1. Started with Pytorch        |       |           |                |
+|            |        |          |       |           |                |
+|            |        |          |       |           |                |
+|            |        |          |       |           |                |
+|            |        |          |       |           |                |
+|            |        |          |       |           |                |
